@@ -105,4 +105,3 @@ To test your code, you can run `npm test`. It runs the script defined in the tes
 
 ## Pre-session Materials
 Here is a [**link**](https://ibm.box.com/s/2ilcx4q3xornonec3kh5s8aadzl2rc48) to the pre-session material that was provided to you earlier.
-
